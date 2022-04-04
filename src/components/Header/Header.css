@@ -1,0 +1,19 @@
+.link {
+    text-decoration: none;
+    margin-left: 15px;
+    font-size: 20px;
+    color: orangered;
+    transition: color ease-in-out 300ms;
+  }
+  
+  .link:hover {
+    color: #080b0e;
+  }
+  
+  .active-link {
+    text-decoration: none;
+    margin-left: 15px;
+    font-size: 20px;
+    transition: color ease-in-out 300ms;
+    color: rgb(15, 15, 15);
+  }

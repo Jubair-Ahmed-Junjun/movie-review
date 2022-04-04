@@ -1,0 +1,12 @@
+.blog {
+  display: flex;
+  justify-content: center;
+}
+
+.blog-content {
+  width: 60%;
+}
+
+.blog-content div {
+  padding: 20px 0px;
+}

@@ -1,0 +1,51 @@
+[
+    {
+      "name": "Scout Tafoya",
+      "description": "No doubt. This film is the changing phase for Sandalwood industry. When watching the film, we can cleverly analyze it. KGF: Chapter 1 is not a film. But, it's an epic and must watch for all those, who love high-octane action films..",
+      "rating": 4.5,
+      "id": 1
+    },
+    {
+      "name": "Matt Zoller Seitz",
+      "description": "Powerful Visuals. Exceptional Cinema Craft. Kannada Film Industry definitely needed someone to take the first daring step to prove that top quality entertainment can be delivered if you get the fundamentals right.",
+      "rating": 5.0,
+      "id": 2
+    },
+    {
+      "name": "Sheila O'Malley",
+      "description": "Absolute masterpiece but wasn't sure why isn't making any noise like Baahubali did. This movie is far better than Baahubali in my view.",
+      "rating": 4.5,
+      "id": 3
+    },
+    {
+      "name": "Tomris Laffly",
+      "description": "Screenplay is stitched into the runtime with such elegance backed by adrenaline pumping background score , Dialouges are massy and are the highlight in the film,the production design to its narration and how the movie unfolds everything scores high .",
+      "rating": 5.0,
+      "id": 4
+    },
+    {
+      "name": "Brian Tallerico",
+      "description": "This is a masterpiece.This is one of the best movie of sandalwood industry. It is the best movie of Rocking Star Yash. It tells about the story of a boy who became Rocky, who wants to become the most powerful and richest man or simply gangster to fulfill his dying mother's promise.",
+      "rating": 4.5,
+      "id": 5
+    },
+    {
+      "name": "Odie Henderson",
+      "description": "Kgf is one of the best movies I have ever watched .This wonderful role given to yash has been appreciably carried out by the same .The cinematography and direction has done a wonderful job.",
+      "rating": 3.0,
+      "id": 6
+    },
+    {
+        "name": "ak takar kabin",
+        "description": "Kgf is one of the best movies I have ever watched .This wonderful role given to yash has been appreciably carried out by the same .The cinematography and direction has done a wonderful job.",
+        "rating": 5.0,
+        "id":8
+      },
+      {
+        "name": "Kuti takar bow",
+        "description": "Kgf is one of the best movies I have ever watched .This wonderful role given to yash has been appreciably carried out by the same .The cinematography and direction has done a wonderful job.",
+        "rating": 5.0,
+        "id": 9
+      }
+  ]
+  
